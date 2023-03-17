@@ -1,6 +1,6 @@
 # Keep Clone
 
-A Keep clone using ReactJS which allows user to add notes, update notes and delete notes.
+It is a notes taking application created using ReactJS which helps users in taking various notes.
 
 ![Preview](./preview.png)
 
@@ -14,13 +14,13 @@ A Keep clone using ReactJS which allows user to add notes, update notes and dele
 
 1. Get the source code on your pc via git.
 
-```js
+```shell
   git clone https://github.com/muskanmi/Keep-clone-react
 ```
 
 2.  Navigate inside the folder through your terminal.
 
-```js
+```shell
   cd Keep-clone-react
 ```
 
